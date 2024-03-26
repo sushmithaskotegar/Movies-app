@@ -1,0 +1,17 @@
+/* PostList.css */
+.movie-titles-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .movie-title {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .movie-title img {
+    width: 500px; /* Adjust image width as needed */
+    height: auto;
+  }
+  

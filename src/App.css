@@ -1,0 +1,18 @@
+.all-items{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.rectangle {
+  color: aliceblue;
+  width: 500px; /* Adjust width as needed */
+  height: 100px; /* Adjust height as needed */
+  background-color: #190e0d; /* Adjust background color as needed */
+  border: 2px solid #2980b9; /* Adjust border color and width as needed */
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  text-decoration: none;
+}
